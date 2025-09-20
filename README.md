@@ -11,7 +11,7 @@ The test runs in **Chrome Mobile Emulator (Pixel 2)** to simulate mobile behavio
 
 ### 1. Clone repo
 ```bash
-git clone <your-ui-repo-url>
+git clone [<your-ui-repo-url>](https://github.com/soundaryakella/sportygroup-ui-automation-soundarya-kella.git)
 cd home-test-ui
 
 2. Create virtual environment
